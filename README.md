@@ -1,1 +1,0 @@
-# jiraspiom.github.io
